@@ -1,1 +1,1 @@
-# Smart-Home-Energy-Management-Sysrem
+# Smart-Home-Energy-Meter-System
